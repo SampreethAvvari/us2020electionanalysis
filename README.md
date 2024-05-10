@@ -19,11 +19,11 @@ The influence of social media on political discourse is significant, especially 
 - **Behavioral Insights**: Exploring user patterns in political support, focusing on antagonistic versus supportive expressions in misinformation-laden tweets.
 
 ## Methodology
-The methodology includes fine-tuning AI models for enhanced detection of misinformation and classifying tweets based on sentiment. We also performed topic modeling to infer the discussion themes across different political leanings.
+The methodology includes fine-tuning LLaMa 3 model for enhanced detection of misinformation and classifying tweets based on sentiment using RoBERTa model. We also performed topic modeling to infer the discussion themes across different political leanings using LDA.
 
 ## Datasets
-1. **LIAR Dataset**: Used for training our model to detect fake news.
-2. **US 2020 Election Tweets Dataset**: Compiled to analyze public sentiment on Twitter for the 2020 U.S. Presidential Election.
+1. **[LIAR Dataset](https://huggingface.co/datasets/liar)**: Benchmark Dataset for Fake News Detection. Used for finetuning our model to detect fake news in tweets. 
+2. **[US 2020 Election Tweets Dataset](https://www.kaggle.com/datasets/manchunhui/us-election-2020-tweets)**: Compiled to analyze public sentiment on Twitter for the 2020 U.S. Presidential Election.
 
 ## Models Used
 - **Fake News Detection**: Employing the fine-tuned LLAMA-3 8B model.
@@ -42,5 +42,3 @@ The study reveals complex interactions among user behavior, misinformation sprea
 3. More studies and references included in the full report.
 
 ---
-**Contact Information**:  
-For further inquiries or collaborations, please contact the authors via the provided emails.
