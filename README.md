@@ -68,11 +68,15 @@ The methodology includes fine-tuning LLaMa 3 model for enhanced detection of mis
 ### Classification of #joebiden
 <img src="Plots/Classification%20of%20joebiden.png" alt="Classification of #joebiden" width="600" height="370">
 
+<p align="justify">More Fake News (comparitively, but slightly) seems to appear in tweets with #JoeBiden than #DonaldTrump</p>
+
 ### Sentiment of #donaldtrump
 <img src="Plots/Sentiment%20of%20donaldtrump.png" alt="Sentiment of #donaldtrump" width="600" height="370">
 
 ### Sentiment of #joebiden
 <img src="Plots/Sentiment%20of%20joebiden.png" alt="Sentiment of #joebiden" width="600" height="370">
+
+<p align="justify">More Negative Sentiment (comparitively, and substantially) seems to appear in tweets with #DonaldTrump than #JoeBiden</p>
 
 ### Negative Sentiment by state
 <img src="Plots/Negative%20Sentiment%20by%20state.png" alt="Negative Sentiment by state" width="600" height="370">
