@@ -39,6 +39,7 @@ The methodology includes fine-tuning LLaMa 3 model for enhanced detection of mis
 
 ### Models Used
 - **Fake News Detection**: Employing the fine-tuned LLAMA-3 8B model.
+  Use this [huggingface](https://hi.switchy.io/MY_a) link to reuse our finetuned LLaMA 3 model.
 - **Sentiment Analysis**: Utilizing the RoBERTa-base sentiment analysis model trained on a large corpus of tweets.
 - **Topic Modeling**: Applying LDA for generative statistical modeling to uncover latent topics in tweets.
 
