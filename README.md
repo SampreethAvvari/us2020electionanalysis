@@ -47,7 +47,7 @@ The methodology includes fine-tuning LLaMa 3 model for enhanced detection of mis
 <p align="justify">The analysis shows a significant presence of both fake and negative news about candidates, with notable differences in tweet volume between candidates. Our findings highlight the role of misinformation and sentiment in shaping public discourse during the elections. The analysis shows a significant presence of both fake and negative tweets about Trump during the peak election season, with his name appearing in approximately in 52% of the tweets compared to just 4% mentioning ”Joe” or ”Biden”. This disparity underscores the extent of discussion surrounding Trump, with the majority (60%) of the mentions being negative. So, ”Trump” trumped over ”Joe”?</p>
 
 ### Overall Fake News Spread
-<img src="Plots/Fake%20News%20Spread%20Overall.png" alt="Overall Fake News Spread" width="400" height="270">
+<img src="Plots/Fake%20News%20Spread%20Overall.png" alt="Overall Fake News Spread" width="400" height="280">
 
 <p align="justify">Overall Fake News Spread - The spread of fake news is around 32% in all the tweets, showcasing a large amount of false statements spread across social media.</p>
 
