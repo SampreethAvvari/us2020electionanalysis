@@ -13,9 +13,9 @@ us2020electionanalysis/
 ├── README.md                                  # Overview and project instructions
 ├── report.pdf                                 # Detailed report of the findings
 ├── sentiment analysis/
-│   └── sentiment_analysis.ipynb               # Notebook for sentiment analysis
+│   └── sentiment_analysis.ipynb               # Notebook for sentiment analysis using pretrained RoBERTa model and Topic Modelling using LDA
 └── fake news detection/
-    ├── fake_news_detection_finetuning.ipynb   # Notebook for fine-tuning the fake news detection model
+    ├── fake_news_detection_finetuning.ipynb   # Notebook for fine-tuning the fake news detection using LLaMA 3 8B Parameters model
     └── fake_news_detection_inference.ipynb    # Notebook for performing inference with the fake news detection model
 ```
 
