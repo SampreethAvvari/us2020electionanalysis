@@ -8,30 +8,13 @@ Institution: New York University
 
 Below is an outline of the repository structure for the US 2020 Election Analysis project:
 us2020electionanalysis/
-├── data/
-│ ├── processed/
-│ │ ├── tweets_cleaned.csv
-│ │ └── sentiment_scores.csv
-│ └── raw/
-│ ├── liar_dataset.csv
-│ └── election_tweets.csv
-├── docs/
-│ ├── report.pdf
-│ └── presentation.pdf
-├── notebooks/
-│ ├── data_preprocessing.ipynb
-│ ├── sentiment_analysis.ipynb
-│ └── topic_modeling.ipynb
-├── src/
-│ ├── data_cleaning.py
-│ ├── sentiment_classifier.py
-│ └── topic_extraction.py
-├── tests/
-│ ├── test_data_cleaning.py
-│ └── test_sentiment_analysis.py
-├── .gitignore
-├── LICENSE
-└── README.md
+├── README.md # Overview and project instructions
+├── report.pdf # Detailed report of the findings
+├── sentiment analysis/
+│ └── sentiment_analysis.ipynb # Notebook for sentiment analysis
+└── fake news detection/
+├── fake_news_detection_finetuning.ipynb # Notebook for fine-tuning the fake news detection model
+└── fake_news_detection_inference.ipynb # Notebook for performing inference with the fake news detection model
 
 
 ## Abstract
