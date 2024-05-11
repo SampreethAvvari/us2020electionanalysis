@@ -45,9 +45,14 @@ The methodology includes fine-tuning LLaMa 3 model for enhanced detection of mis
 ## Results
 The analysis shows a significant presence of both fake and negative news about candidates, with notable differences in tweet volume between candidates. Our findings highlight the role of misinformation and sentiment in shaping public discourse during the elections. The analysis shows a significant presence of both fake and negative tweets about Trump during the peak election season, with his name appearing in approximately in 52% of the tweets compared to just 4% mentioning ”Joe” or ”Biden”. This disparity underscores the extent of discussion surrounding Trump, with the majority (60%) of the mentions being negative. So, ”Trump” trumped over ”Joe”?
 
-<img src="Plots/Fake%20News%20Spread%20Overall.png" alt="Overall Fake News Spread" width="100" height="100">
+### Overall Fake News Spread
+<img src="Plots/Fake%20News%20Spread%20Overall.png" alt="Overall Fake News Spread" width="500" height="370">
 
-![Overall Fake News Spread](Plots/Fake%20News%20Spread%20Overall.png "Overall Fake News Spread")
+### Combination of Classification and Sentiment
+<img src="Plots/Combination%20of%20Classification%20and%20Sentiment.png" alt="Combination of Classification and Sentiment" width="600" height="370">
+
+### Sentiment by Category for swing states
+<img src="Plots/Sentiment%20by%20Category%20for%20swing%20states.png" alt="Sentiment by Category for swing states" width="600" height="370">
 
 It also identified distinct strategies in Twitter use by political groups, with anti-democratic narratives focusing on personal attacks, and pro-democratic ones promoting unity and voter mobilization. These results underscore the effectiveness of AI in analyzing online misinformation and sentiment, emphasizing the importance of ongoing research to enhance understanding of social media’s influence on public opinion and electoral outcomes.
 
