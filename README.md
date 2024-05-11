@@ -55,6 +55,36 @@ The analysis shows a significant presence of both fake and negative news about c
 ### Sentiment by Category for swing states
 <img src="Plots/Sentiment%20by%20Category%20for%20swing%20states.png" alt="Sentiment by Category for swing states" width="600" height="370">
 
+### Classification of #donaldtrump
+<img src="Plots/Classification%20of%20#donaldtrump.png" alt="Classification of #donaldtrump" width="600" height="370">
+
+### Classification of #joebiden
+<img src="Plots/Classification%20of%20#joebiden.png" alt="Classification of #joebiden" width="600" height="370">
+
+### Fake News by State
+<img src="Plots/Fake%20News%20by%20Statepng" alt="Fake News by State" width="600" height="370">
+
+### Negative Sentiment by state
+<img src="Plots/Negative%20Sentiment%20by%20state.png" alt="Negative Sentiment by state" width="600" height="370">
+
+### Neutral Sentiment by state
+<img src="Plots/Neutral%20Sentiment%20by%20state.png" alt="Neutral Sentiment by state" width="600" height="370">
+
+### Personal opinions by state
+<img src="Plots/Personal%20opinions%20by%20state.png" alt="Personal opinions by state" width="600" height="370">
+
+### Positive Sentiment by state
+<img src="Plots/Positive%20Sentiment%20by%20state.png" alt="Positive Sentiment by state" width="600" height="370">
+
+### Sentiment of #donaldtrump
+<img src="Plots/Sentiment%20of%20#donaldtrump.png" alt="Sentiment of #donaldtrump" width="600" height="370">
+
+### Sentiment of #joebiden
+<img src="Plots/Sentiment%20of%20#joebiden.png" alt="Sentiment of #joebiden" width="600" height="370">
+
+### True News by state
+<img src="Plots/True%20News%20by%20state.png" alt="True News by state" width="600" height="370">
+
 It also identified distinct strategies in Twitter use by political groups, with anti-democratic narratives focusing on personal attacks, and pro-democratic ones promoting unity and voter mobilization. These results underscore the effectiveness of AI in analyzing online misinformation and sentiment, emphasizing the importance of ongoing research to enhance understanding of social media’s influence on public opinion and electoral outcomes.
 
 ## References
