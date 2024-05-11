@@ -6,16 +6,18 @@ Institution: New York University
 
 ## Folder Structure
 
-Below is an outline of the repository structure for the US 2020 Election Analysis project:
-us2020electionanalysis/
-├── README.md # Overview and project instructions
-├── report.pdf # Detailed report of the findings
-├── sentiment analysis/
-│ └── sentiment_analysis.ipynb # Notebook for sentiment analysis
-└── fake news detection/
-├── fake_news_detection_finetuning.ipynb # Notebook for fine-tuning the fake news detection model
-└── fake_news_detection_inference.ipynb # Notebook for performing inference with the fake news detection model
+Below is the structure of the `us2020electionanalysis` project, organized for clarity:
 
+```plaintext
+us2020electionanalysis/
+├── README.md                  # Overview and project instructions
+├── report.pdf                 # Detailed report of the findings
+├── sentiment analysis/
+│   └── sentiment_analysis.ipynb   # Notebook for sentiment analysis
+└── fake news detection/
+    ├── fake_news_detection_finetuning.ipynb   # Notebook for fine-tuning the fake news detection model
+    └── fake_news_detection_inference.ipynb    # Notebook for performing inference with the fake news detection model
+```
 
 ## Abstract
 This research evaluates political sentiment analysis to reveal trends in digital discourse during the 2020 U.S. Presidential Elections. Utilizing advanced AI models like Few-shot Llama 3 and RoBERTa, we analyzed millions of tweets to detect fake news, classify sentiment, and identify key topics. This study aims to understand the polarized emotions and attitudes prevalent during the elections and assess Twitter’s content moderation for potential partisan bias. The influence of social media on political discourse is significant, especially during events like the U.S. presidential elections. Our study leverages social media data to provide direct insights into public sentiment, where users express support or disdain for candidates. By categorizing tweets and analyzing sentiment, we explore the nature of political emotions during the election season.
