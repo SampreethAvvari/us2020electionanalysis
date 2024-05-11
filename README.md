@@ -10,10 +10,10 @@ Below is the structure of the `us2020electionanalysis` project, organized for cl
 
 ```plaintext
 us2020electionanalysis/
-├── README.md                  # Overview and project instructions
-├── report.pdf                 # Detailed report of the findings
+├── README.md                                  # Overview and project instructions
+├── report.pdf                                 # Detailed report of the findings
 ├── sentiment analysis/
-│   └── sentiment_analysis.ipynb   # Notebook for sentiment analysis
+│   └── sentiment_analysis.ipynb               # Notebook for sentiment analysis
 └── fake news detection/
     ├── fake_news_detection_finetuning.ipynb   # Notebook for fine-tuning the fake news detection model
     └── fake_news_detection_inference.ipynb    # Notebook for performing inference with the fake news detection model
